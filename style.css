@@ -3,3 +3,20 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background: #262a2f;
+}
+
+.container{
+    width: 40%;
+    height: 20rem;
+    padding: 5rem;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    background: #fff;
+    border-radius: 1rem;
+    text-align: center;
+}
